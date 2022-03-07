@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android Empat</string>
+    <string name="email_hint">Input Email</string>
+    <string name="text_login">Login</string>
+
+    <string-array name="list_spinner">
+        <item>Kucing</item>
+        <item>Marmut</item>
+        <item>Kupu-kupu</item>
+    </string-array>
+</resources>
