@@ -17,4 +17,8 @@ class MainActivity : AppCompatActivity() {
     fun musnadilMethod(){
 
     }
+
+    fun conflictMethodSenno(){
+
+    }
 }
