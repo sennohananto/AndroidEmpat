@@ -14,4 +14,7 @@ class MainActivity : AppCompatActivity() {
         //Halo nama saya Senno
         //Boleh kenalan nggak??
     }
+    fun musnadilMethod(){
+
+    }
 }
