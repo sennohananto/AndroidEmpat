@@ -28,4 +28,7 @@ class MainActivity : AppCompatActivity() {
     fun musnadilMethod(){
 
     }
+    fun conflictMethodMusnadil(){
+
+    }
 }
