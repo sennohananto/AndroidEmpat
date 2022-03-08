@@ -25,4 +25,7 @@ class MainActivity : AppCompatActivity() {
         //100 Baris Code
 
     }
+    fun musnadilMethod(){
+
+    }
 }
