@@ -11,7 +11,18 @@ class MainActivity : AppCompatActivity() {
         val myName = "Senno"
         Log.d("AND-4","Selamat Pagiii, $myName")
 
+        Log.d("AND-4","Selamat Pagiii, $myName")
         //Halo nama saya Senno
         //Boleh kenalan nggak??
+        //Nama kamu siapa
+
+        //1
+        //50
+        //..
+        //100
+        //Stash
+        //
+        //100 Baris Code
+
     }
 }
