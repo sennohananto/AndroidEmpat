@@ -35,4 +35,7 @@ class MainActivity : AppCompatActivity() {
     fun conflictMethodMusnadil(){
 
     }
-}
+
+    fun testCommitHusni(){
+
+    }}
