@@ -35,4 +35,8 @@ class MainActivity : AppCompatActivity() {
     fun conflictMethodMusnadil(){
 
     }
+
+    fun methodAtBranchMaster(){
+
+    }
 }
